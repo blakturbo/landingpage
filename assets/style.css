@@ -1,0 +1,73 @@
+*{ /* */
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+}
+
+body{
+    background-color: rgba(255, 255, 0, 0.569);
+    width: 100%;
+    margin: auto;
+}
+
+.header{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2em;
+    font-weight: 400;
+    font-style:normal;
+    color: rgba(0, 183, 255, 0.685);
+    background-image: url(wallgrey.png);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding: 1em;
+}
+
+
+table{
+    width: 75%;
+    margin: 2em;
+}
+
+table, th, td{
+    border: 3px solid rgba(0, 183, 255, 0.685);
+    border-collapse: collapse;
+    margin: auto;
+}
+
+
+.products{
+    margin: 4em;
+    margin-left: 12%;
+    width: -100%;
+}
+
+.description{
+    color: #3f97bf;
+    font-size: 16px;
+    font-weight: bolder;
+    font-style: oblique;
+    text-align: center;
+}
+
+.price{
+    color:#3f97bf;
+    font-size: 14px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+.logo{
+    margin-left: 44%;
+    margin-top: 8%;
+    padding: 10px;
+}
+
+.footer{
+    text-align: center;
+    font-size: 1em;
+    color: rgba(255, 255, 0, 0.569);
+    background-color: gray;
+}
+
+
